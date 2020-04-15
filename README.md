@@ -45,18 +45,19 @@
 
 ### Notas sobre os testes
 Watch Usage
- › Press f to run only failed tests.
- › Press o to only run tests related to changed files.
- › Press p to filter by a filename regex pattern.
- › Press t to filter by a test name regex pattern.
- › Press q to quit watch mode.
- › Press Enter to trigger a test run.
+
+- > Press f to run only failed tests.
+- > Press o to only run tests related to changed files.
+- > Press p to filter by a filename regex pattern.
+- > Press t to filter by a test name regex pattern.
+- > Press q to quit watch mode.
+- > Press Enter to trigger a test run.
 
  ### Em outras palavras:
  Modo de executar os testes
-  ›Pressione [f] para executar apenas testes com falha.
-  ›Pressione [o] para executar apenas testes relacionados aos arquivos alterados.
-  ›Pressione [p] para filtrar por um padrão de regex de nome de arquivo. 
-  ›Pressione [t] para filtrar por um padrão regex de nome de teste.
-  ›Pressione [q] para sair do modo.
-  ›Pressione [Enter] para iniciar um teste.
+- > Pressione [f] para executar apenas testes com falha.
+- > Pressione [o] para executar apenas testes relacionados aos arquivos alterados.
+- > Pressione [p] para filtrar por um padrão de regex de nome de arquivo. 
+- > Pressione [t] para filtrar por um padrão regex de nome de teste.
+- > Pressione [q] para sair do modo.
+- > Pressione [Enter] para iniciar um teste.
