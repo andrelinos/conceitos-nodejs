@@ -1,4 +1,4 @@
-## Exercício Concetos NodeJS
+# Exercício Concetos NodeJS
 
 ### Criado com base num template da Rocketseat.
 - Testes de rotas
